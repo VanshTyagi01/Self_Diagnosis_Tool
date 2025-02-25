@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Self Diagnosis Tool is an AI-powered web application designed to help users diagnose up to 48 types of diseases based on their symptoms. The tool asks a series of yes/no questions related to symptoms and provides a predicted disease based on the responses. This project aims to assist individuals in identifying potential health conditions early, enabling timely medical consultation.
+The Self Diagnosis Tool is an AI-powered web application designed to help users diagnose up to 42 types of diseases based on their symptoms. The tool asks a series of yes/no questions related to symptoms and provides a predicted disease based on the responses. This project aims to assist individuals in identifying potential health conditions early, enabling timely medical consultation.
 
 ## Features :
 
